@@ -7,3 +7,4 @@ My first repository
 - Weathering with you
 - The Eminence in Shadow
 - Demon Slayer: infinity Castle
+- My hero academia: You're Next
